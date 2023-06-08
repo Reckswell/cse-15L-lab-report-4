@@ -19,7 +19,7 @@
 
 ### Keys typed: `ls` -> `<Enter>` (to check files in main directory)
 *Note: extra files are present since lab report is submitted late
-![image](https://github.com/Reckswell/cse-15L-lab-report-4/assets/73510375/5de3b9b5-ca63-4a71-9425-86bb99aaa22c)
+<br>![image](https://github.com/Reckswell/cse-15L-lab-report-4/assets/73510375/5de3b9b5-ca63-4a71-9425-86bb99aaa22c)
 
 ### Keys typed: `cd lab7` -> `<Enter>` -> `ls` -> `<Enter>` (to change directory to and check files in lab7)
 ![image](https://github.com/Reckswell/cse-15L-lab-report-4/assets/73510375/4ee3d6d5-069e-426a-b675-5fa638081ac7)
