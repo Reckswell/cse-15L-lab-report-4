@@ -12,7 +12,7 @@ Note: `<Ctrl> + V` doesn't work in my Bash terminal for some reason, so I used `
 ## Step 2: Cloning fork of repository from personal Github Account
 
 ### Keys typed: `git clone` -> `space` -> `<Shift> + <Insert>` -> `<Enter>`
-Note: repository was cloned prior to this lab report
+Note: repository was cloned prior to this lab report. Link can be found at [https://github.com/Reckswell/lab7]([url](https://github.com/Reckswell/lab7))
 ![image](https://github.com/Reckswell/cse-15L-lab-report-4/assets/73510375/bc4b5cb3-4d08-49d0-97b9-a98c554fb11c)
 
 ## Step 3: Running test to demonstrate they fail:
