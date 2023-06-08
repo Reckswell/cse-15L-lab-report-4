@@ -7,18 +7,21 @@
 
 ### Keys typed: `<Shift> + <Insert>` (pasting password from clipboard):
 Note: `<Ctrl> + V` doesn't work in my Bash terminal for some reason, so I used `<Shift> + <Insert>` instead, for every instance of pasting.
+
 ![image](https://github.com/Reckswell/cse-15L-lab-report-4/assets/73510375/90e3c38e-0edb-4d46-8913-05370d51006c)
 
 ## Step 2: Cloning fork of repository from personal Github Account
 
 ### Keys typed: `git clone` -> `space` -> `<Shift> + <Insert>` -> `<Enter>`
 Note: repository was cloned prior to this lab report. Link can be found at [https://github.com/Reckswell/lab7]([url](https://github.com/Reckswell/lab7))
+
 ![image](https://github.com/Reckswell/cse-15L-lab-report-4/assets/73510375/bc4b5cb3-4d08-49d0-97b9-a98c554fb11c)
 
 ## Step 3: Running test to demonstrate they fail:
 
 ### Keys typed: `ls` -> `<Enter>` (to check files in main directory)
 Note: extra files are present since lab report is submitted late
+
 ![image](https://github.com/Reckswell/cse-15L-lab-report-4/assets/73510375/5de3b9b5-ca63-4a71-9425-86bb99aaa22c)
 
 ### Keys typed: `cd lab7` -> `<Enter>` -> `ls` -> `<Enter>` (to change directory to and check files in lab7)
@@ -34,14 +37,17 @@ Note: extra files are present since lab report is submitted late
 
 ### Keys typed: `/` -> `index1` -> `<Enter>` -> `<Shift> + N` (to find index1)
 Note: `N` on it's own cycles chronologically forwards, while `<Shift> + N` cycles chronologically backwards. It's used here since the line of index1 we need to fix is towards the end of the program. Additionally, the line number is at the correct position corresponding to where the junit test failed.
+
 ![image](https://github.com/Reckswell/cse-15L-lab-report-4/assets/73510375/363aa9fc-d7b6-478e-bd9e-5ed9e9e95a0a)
 
 ### Keys typed: `E` -> `<Delete>` (to delete the 1 from index1)
 Note: `E` skips to the end of the word `index`. `<Delete>` deletes the 1 in `index1` to make it just `index`.
+
 ![image](https://github.com/Reckswell/cse-15L-lab-report-4/assets/73510375/29dd9fcc-11b2-401a-91ab-ea9ec9d4259f)
 
 ### Keys typed: `I` -> `2` -> `<Esc>` (to insert a 2 after index)
 Note: `I` changes vim to insert mode. `<Esc>` changes vim back to normal mode.
+
 ![image](https://github.com/Reckswell/cse-15L-lab-report-4/assets/73510375/02393829-71dc-405b-bdb6-f7ec5b9f9a5e)
 
 ### Keys typed: `:wq` -> `<Enter>` (exit and save changes in vim)
